@@ -1,4 +1,32 @@
-  /*var katzDeliLine = [];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  var katzDeliLine = [];
   var number = 0;
 
 function takeANumber (katzDeliLine, name){
@@ -19,16 +47,16 @@ function nowServing(katzDeli) {
 var line = [];
 function currentLine(katzDeli) {
 for (var i = 0; i < katzDeli.length; i++) {
-    line.push(` `+[i+1]+`. `  + katzDeli[i])
+    line.push( ` ` +[i+1]+`. ` + katzDeli[i])
   }
   if (katzDeli.length === 0) {
     return "The line is currently empty.";
   } else
   return(`The line is currently:` + line);
 }
-*/
 
-var takeANumber = function (katzDeli, newCustomer) {
+
+/*var takeANumber = function (katzDeli, newCustomer) {
   if (katzDeli.length > 0);
   katzDeli.push(newCustomer);
   return "Welcome, " + newCustomer + ". You are number " + katzDeli.length + " in line."
@@ -72,3 +100,4 @@ currentLine(katzDeliLine, newCustomer); // "The line is currently: 1. Grace, 2. 
 nowServing(katzDeliLine, "Grace"); // "Currently serving Grace."
 
 currentLine(katzDeliLine, newCustomer); // "The line is currently: 1. Kent, 2. Matz"
+*/
