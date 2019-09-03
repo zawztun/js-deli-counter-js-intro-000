@@ -46,8 +46,9 @@ for (var i = 0; i < katzDeli.length; i++) {
 
 
 
-/*
 
+
+  /*
   var katzDeliLine = [];
   var number = 0;
 
@@ -122,4 +123,3 @@ currentLine(katzDeliLine, newCustomer); // "The line is currently: 1. Grace, 2. 
 nowServing(katzDeliLine, "Grace"); // "Currently serving Grace."
 
 currentLine(katzDeliLine, newCustomer); // "The line is currently: 1. Kent, 2. Matz"
-*/
