@@ -79,7 +79,8 @@ for (var i = 0; i < katzDeli.length; i++) {
 }
 */
 
-/*var takeANumber = function (katzDeli, newCustomer) {
+/*
+var takeANumber = function (katzDeli, newCustomer) {
   if (katzDeli.length > 0);
   katzDeli.push(newCustomer);
   return "Welcome, " + newCustomer + ". You are number " + katzDeli.length + " in line."
@@ -123,3 +124,4 @@ currentLine(katzDeliLine, newCustomer); // "The line is currently: 1. Grace, 2. 
 nowServing(katzDeliLine, "Grace"); // "Currently serving Grace."
 
 currentLine(katzDeliLine, newCustomer); // "The line is currently: 1. Kent, 2. Matz"
+*/
