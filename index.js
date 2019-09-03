@@ -21,4 +21,5 @@ for (var i = 0; i < katzDeli.length; i++) {
     return "The line is currently empty.";
   } else
   return(`The line is currently:` + line);
+
 }
