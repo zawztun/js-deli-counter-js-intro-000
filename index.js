@@ -81,7 +81,7 @@ for (var i = 0; i < katzDeli.length; i++) {
   } else
   return(`The line is currently:` + line);
 }
-
+*/
 
 /*var takeANumber = function (katzDeli, newCustomer) {
   if (katzDeli.length > 0);
