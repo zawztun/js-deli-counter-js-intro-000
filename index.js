@@ -1,4 +1,4 @@
-/*var katzDeliLine = [];
+var katzDeliLine = [];
 function takeANumber(katzDeliLine, name){
 katzDeliLine.push(name)
   return `Welcome, ${name}. You are number ${katzDeliLine.length} in line.`
@@ -22,7 +22,6 @@ for (var i = 0; i < katzDeli.length; i++) {
   } else
   return(`The line is currently:` + line);
 }
-*/
 
 
 
@@ -49,6 +48,7 @@ for (var i = 0; i < katzDeli.length; i++) {
 
 
 
+/*
   var katzDeliLine = [];
   var number = 0;
 
@@ -77,7 +77,7 @@ for (var i = 0; i < katzDeli.length; i++) {
   } else
   return(`The line is currently:` + line);
 }
-
+*/
 
 /*
 var takeANumber = function (katzDeli, newCustomer) {
