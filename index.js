@@ -22,4 +22,4 @@ for (var i = 0; i < katzDeli.length; i++) {
   } else
   return(`The line is currently:` + line);
 
-}
+};
